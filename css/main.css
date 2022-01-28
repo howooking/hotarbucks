@@ -186,9 +186,6 @@ header .main-menu {
   right: 0;
   z-index: 1;
 }
-header .main-menu .item {
-
-}
 header .main-menu .item .item__name {
   padding: 10px 20px 34px 20px;
   font-family: Arial, Helvetica, sans-serif;
@@ -222,9 +219,6 @@ header .main-menu .item .item__contents .contents__menu > ul > li h4 {
   padding: 3px 0 12px 0;
   font-size: 14px;
   color: #fff;
-}
-header .main-menu .item .item__contents .contents__menu > ul > li ul {
-  
 }
 header .main-menu .item .item__contents .contents__menu > ul > li ul li {
   padding: 5px 0;
@@ -260,10 +254,6 @@ header .badges .badge {
   box-shadow: 4px 4px 10px rgba(0, 0, 0, .15);
   cursor: pointer;
 }
-header .badges .badge img {
-
-}
-
 
 /*VISUAL*/
 .visual {
@@ -315,9 +305,6 @@ header .badges .badge img {
 
 
 /* NOTICE */
-.notice {
-
-}
 .notice .notice-line {
   position: relative;
 }
@@ -430,7 +417,7 @@ header .badges .badge img {
   bottom: 0;
   right: 0;
   left: 0;
-  margin: auto; /* 가로 넓이가 있어야 가운데 정렬되는데 위에 .btn에 가로넓이가 정의되어 있다. */ */
+  margin: auto; /* 가로 넓이가 있어야 가운데 정렬되는데 위에 .btn에 가로넓이가 정의되어 있다. */
 }
 .notice .promotion .swiper-pagination {
   bottom: 40px;
@@ -609,10 +596,6 @@ header .badges .badge img {
 .season-product .text-group .description {
   margin-bottom: 15px;
 }
-.season-product .text-group .more {
-
-}
-
 /* RESERVE COFFEE */
 .reserve-coffee {
   background-image: url("../images/reserve_bg.jpg");
